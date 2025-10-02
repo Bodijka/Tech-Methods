@@ -2,6 +2,6 @@
 ## Вторая 
 ### Третья 
 
-’ ’ ’python
+```python
 print("Hello")
-’ ’ ’
+```
